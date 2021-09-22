@@ -1,0 +1,17 @@
+C:\Users\Digbijay Gautam\Downloads\supermarket_Katas\supermarket_checkout-master\SupermarketCheckout.Tests\bin\Debug\xunit.abstractions.dll
+C:\Users\Digbijay Gautam\Downloads\supermarket_Katas\supermarket_checkout-master\SupermarketCheckout.Tests\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+C:\Users\Digbijay Gautam\Downloads\supermarket_Katas\supermarket_checkout-master\SupermarketCheckout.Tests\bin\Debug\xunit.runner.utility.net35.dll
+C:\Users\Digbijay Gautam\Downloads\supermarket_Katas\supermarket_checkout-master\SupermarketCheckout.Tests\bin\Debug\xunit.runner.reporters.net452.dll
+C:\Users\Digbijay Gautam\Downloads\supermarket_Katas\supermarket_checkout-master\SupermarketCheckout.Tests\bin\Debug\SupermarketCheckout.Tests.dll
+C:\Users\Digbijay Gautam\Downloads\supermarket_Katas\supermarket_checkout-master\SupermarketCheckout.Tests\bin\Debug\SupermarketCheckout.Tests.pdb
+C:\Users\Digbijay Gautam\Downloads\supermarket_Katas\supermarket_checkout-master\SupermarketCheckout.Tests\bin\Debug\SupermarketCheckout.dll
+C:\Users\Digbijay Gautam\Downloads\supermarket_Katas\supermarket_checkout-master\SupermarketCheckout.Tests\bin\Debug\xunit.assert.dll
+C:\Users\Digbijay Gautam\Downloads\supermarket_Katas\supermarket_checkout-master\SupermarketCheckout.Tests\bin\Debug\xunit.core.dll
+C:\Users\Digbijay Gautam\Downloads\supermarket_Katas\supermarket_checkout-master\SupermarketCheckout.Tests\bin\Debug\xunit.execution.desktop.dll
+C:\Users\Digbijay Gautam\Downloads\supermarket_Katas\supermarket_checkout-master\SupermarketCheckout.Tests\bin\Debug\SupermarketCheckout.pdb
+C:\Users\Digbijay Gautam\Downloads\supermarket_Katas\supermarket_checkout-master\SupermarketCheckout.Tests\bin\Debug\xunit.assert.xml
+C:\Users\Digbijay Gautam\Downloads\supermarket_Katas\supermarket_checkout-master\SupermarketCheckout.Tests\bin\Debug\xunit.core.xml
+C:\Users\Digbijay Gautam\Downloads\supermarket_Katas\supermarket_checkout-master\SupermarketCheckout.Tests\bin\Debug\xunit.execution.desktop.xml
+C:\Users\Digbijay Gautam\Downloads\supermarket_Katas\supermarket_checkout-master\SupermarketCheckout.Tests\obj\Debug\SupermarketCheckout.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Digbijay Gautam\Downloads\supermarket_Katas\supermarket_checkout-master\SupermarketCheckout.Tests\obj\Debug\SupermarketCheckout.Tests.dll
+C:\Users\Digbijay Gautam\Downloads\supermarket_Katas\supermarket_checkout-master\SupermarketCheckout.Tests\obj\Debug\SupermarketCheckout.Tests.pdb

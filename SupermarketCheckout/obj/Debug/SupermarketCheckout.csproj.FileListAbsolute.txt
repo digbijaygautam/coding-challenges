@@ -1,0 +1,5 @@
+C:\Users\Digbijay Gautam\Downloads\supermarket_Katas\supermarket_checkout-master\SupermarketCheckout\bin\Debug\SupermarketCheckout.dll
+C:\Users\Digbijay Gautam\Downloads\supermarket_Katas\supermarket_checkout-master\SupermarketCheckout\bin\Debug\SupermarketCheckout.pdb
+C:\Users\Digbijay Gautam\Downloads\supermarket_Katas\supermarket_checkout-master\SupermarketCheckout\obj\Debug\SupermarketCheckout.csprojResolveAssemblyReference.cache
+C:\Users\Digbijay Gautam\Downloads\supermarket_Katas\supermarket_checkout-master\SupermarketCheckout\obj\Debug\SupermarketCheckout.dll
+C:\Users\Digbijay Gautam\Downloads\supermarket_Katas\supermarket_checkout-master\SupermarketCheckout\obj\Debug\SupermarketCheckout.pdb
